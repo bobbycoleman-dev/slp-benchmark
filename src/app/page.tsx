@@ -6,8 +6,7 @@ export default function Home() {
 			<div>
 				<Image src="/logo.png" height={500} width={500} alt="slp-benchmark-logo" />
 			</div>
-			<div className="text-5xl">SLP Benchmark Coming Soon!</div>
-			<div className="text-5xl">Testing Dev Site</div>
+			<div className="text-3xl md:text-5xl text-center">SLP Benchmark Coming Soon!</div>
 		</main>
 	);
 }
